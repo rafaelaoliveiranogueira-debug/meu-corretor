@@ -1,0 +1,17 @@
+{
+  "tituloApp": "Minhas Turmas e Avaliações",
+  "provas": [
+    {
+      "id": 1,
+      "turma": "5º Ano A",
+      "nomeProva": "Avaliação Diagnóstica de Matemática",
+      "gabarito": ["A", "C", "B", "D", "E", "A", "B", "C"]
+    },
+    {
+      "id": 2,
+      "turma": "5º Ano B",
+      "nomeProva": "Simulado de Língua Portuguesa",
+      "gabarito": ["B", "B", "A", "C", "D", "E"]
+    }
+  ]
+}
